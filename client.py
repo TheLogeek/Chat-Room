@@ -1,6 +1,6 @@
 import socket, threading
 
-HOST = "127.0.0.1"
+HOST = "10.104.37.98"
 PORT = 12345
 
 username = input("Choose a username: ")
