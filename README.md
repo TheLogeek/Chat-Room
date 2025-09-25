@@ -1,6 +1,6 @@
 # Chat-Room
 
-A local chat application program that uses TCP
+This chat room application uses TCP to enable all devices connected to the same network to chat with one another.
 
 **Requirements**
 
@@ -16,4 +16,4 @@ Python
 
 - Get the IP address of the host and enter it on all client devices.
 
-- Choose usernames to connect then all client devices can now send text messages to each other.
+- Choose usernames to connect then all client devices can now send text messages to one another.
