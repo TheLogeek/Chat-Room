@@ -16,7 +16,7 @@ git clone https://github.com/TheLogeek/Chat-Room
 
 - Connect all Client devices to the host via WiFi.
 
-- Run client.py on all client device.
+- Run client.py on all client devices.
 
 - Get the IP address of the host and enter it on all client devices.
 
