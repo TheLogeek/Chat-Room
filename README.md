@@ -2,4 +2,4 @@
 
 A local chat application program that uses TCP
 
-![screenshot](Screenshots/Chat Room screenshot.jpg)
+![Logo](Screenshots/Chat Room screenshot.jpg)
