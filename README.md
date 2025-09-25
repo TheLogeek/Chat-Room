@@ -6,6 +6,10 @@ This chat room application uses TCP to enable all devices connected to the same 
 
 Python
 
+**Cloning**
+
+git clone https://github.com/TheLogeek/Chat-Room
+
 **Usage**
 
 - Turn on hotspot on a device and run server.py on it (this device serves as the host).
