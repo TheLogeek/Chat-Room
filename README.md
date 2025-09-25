@@ -10,7 +10,7 @@ Python
 
 - Turn on hotspot on a device and run server.py on it (this device serves as the host).
 
-- Connect all Clients' device to the host via WiFi.
+- Connect all Client devices to the host via WiFi.
 
 - Run client.py on all client device.
 
