@@ -2,4 +2,4 @@
 
 A local chat application program that uses TCP
 
-!(Screenshots/Screenshots/Chat Room screenshot.jpg)
+!(https://github.com/TheLogeek/Chat-Room/Screenshots/Chat Room screenshot.jpg)
